@@ -17,11 +17,11 @@
 ## 3. 轮播图
     swiper
     1. 下载轮播图 
-        `npm install swiper vue-awesome-swiper --save`
+        npm install swiper vue-awesome-swiper --save
     2. 注册到全局
         `import VueAwesomeSwiper from 'vue-awesome-swiper'
         import 'swiper/swiper-bundle.css'`
-       `Vue.use(VueAwesomeSwiper, /* { default options with global component } */)`
+       Vue.use(VueAwesomeSwiper, /* { default options with global component } */)
     3. 使用
         监听滑块动画完成的事件：slideChangeTransitionEnd
         让轮播图滑动指定滑块：slideTo
