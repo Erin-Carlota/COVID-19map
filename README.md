@@ -5,7 +5,7 @@
     key : 37628affa346aae8bd97ad80fd31ae04
 
 ## 2. echarts图表
-    - 安装echarts : `npm i echarts`
+    - 安装echarts : npm i echarts
     - 地图
         1. 引入echarts 和 china 地图
         2. 组件渲染完成时加载地图
